@@ -8,7 +8,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [Testing instructions](#testing instructions)
+  - [Testing instructions](#testing-instructions)
   - [License](#license)
   - [Questions](#questions)
 
@@ -17,7 +17,7 @@
   Npm i
 
   ## Usage
-  node index.js and follow prompts
+  node index.js and follow prompts. Video tutorial available at https://drive.google.com/file/d/1yM6XnqoczglTEqtPXOpnq6UwgE0lGWLe/view
 
   ## Credits
   none
