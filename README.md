@@ -2,27 +2,27 @@
   # README Generator
 
   ## Description
-  This is a node application with the purpose of making a README easier for the developer.
+  This app makes a proffessional README
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [Credits](#credits)
+  - [Testing instructions](#testing instructions)
   - [License](#license)
-  - [Contact](#contact)
+  - [Questions](#questions)
+
 
   ## Installation
-  Simply npm i to install inquirer and run node index.js from the command line
+  Npm i
 
   ## Usage
-  Run node index.js from the command line and use the README file generated
+  node index.js and follow prompts
 
-  ## Contributing
+  ## Credits
   none
 
-  ## Tests
+  ## Testing instructions
   none
 
   ## License
