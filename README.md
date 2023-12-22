@@ -1,29 +1,29 @@
 
-  # README Generator
+  # E-Commerce site back end
 
   ## Description
-  This app makes a proffessional README
+  This is the back end of an ecommerce site which uses SQL and express.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [Testing instructions](#testing-instructions)
+  - [Testing instructions](#testing instructions)
   - [License](#license)
   - [Questions](#questions)
 
 
   ## Installation
-  Npm i
+  Clone repo and npm for installation
 
   ## Usage
-  node index.js and follow prompts. Video tutorial available at https://drive.google.com/file/d/1yM6XnqoczglTEqtPXOpnq6UwgE0lGWLe/view
+  This would be used as a backend for an ecommerce website
 
   ## Credits
-  none
+  
 
   ## Testing instructions
-  none
+  
 
   ## License
   This Project is licenced under MIT License.
